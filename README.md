@@ -6,7 +6,7 @@
 
 ## Demo
 <p align="center">
-  <img src="https://github.com/radiangle/pneumonia-classification/blob/main/demo.gif" alt="animated" />
+  <img src="https://github.com/radiangle/pneumonia-classification/blob/main/demo-android.gif" alt="animated" />
 </p>
 
 We use Android Studio to deploy the application for pneumonia classification application. 
