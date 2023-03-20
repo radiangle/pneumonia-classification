@@ -6,6 +6,8 @@
 
 ## Demo
 
+![](https://github.com/radiangle/pneumonia-classification/blob/main/demo.gif)
+
 We use Android Studio to deploy the application for pneumonia classification application. 
 
 The folder "DSC148Project" includes all the codes for the app. 
