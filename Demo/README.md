@@ -9,7 +9,8 @@ We also include the apk file in this folder. You should be able to open it with 
 Please only use chest x-ray as the photo input since we only train it with the chest x-ray photos. 
 
 The result returned by the app may slightly off compared with our actual model because the way we transform image to pixel matrix may not reflect the 
-origin image itself. Since we are lacking of the related knowledge on transforming a image to pixel matrix, we heavily rely on the tutorial
+origin image itself. 
+Since we are lacking of the related knowledge on transforming a image to pixel matrix, we heavily rely on the tutorial
 mentioned above. 
 
 Here is the [Demo Video](https://youtu.be/sFSY-EhBKVY) of our project. 
