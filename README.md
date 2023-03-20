@@ -6,7 +6,7 @@
 
 ## Demo
 
-![](https://github.com/radiangle/pneumonia-classification/blob/main/demo.gif)
+<p align="center">![](https://github.com/radiangle/pneumonia-classification/blob/main/demo.gif)
 
 We use Android Studio to deploy the application for pneumonia classification application. 
 
