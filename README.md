@@ -24,4 +24,4 @@ origin image itself.
 Since we are lacking of the related knowledge on transforming a image to pixel matrix, we heavily rely on the tutorial
 mentioned above. 
 
-Here is the [Demo Video](https://youtu.be/sFSY-EhBKVY) of our project. 
+Here is the [Demo Video with sound](https://youtu.be/sFSY-EhBKVY) of our project. 
