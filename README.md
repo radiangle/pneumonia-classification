@@ -5,8 +5,9 @@
 - Link to EfficientNet model https://drive.google.com/file/d/11n1MFfRFZamLE3m605FPYN9DOIZIknue/view?usp=share_link
 
 ## Demo
-
-<p align="center"> ![](https://github.com/radiangle/pneumonia-classification/blob/main/demo.gif)
+<p align="center">
+  <img src="https://github.com/radiangle/pneumonia-classification/blob/main/demo.gif" alt="animated" />
+</p>
 
 We use Android Studio to deploy the application for pneumonia classification application. 
 
