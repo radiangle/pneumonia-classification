@@ -13,7 +13,7 @@ Pneumonia is a respiratory disease that affects millions of people worldwide. Ea
 
 We use Android Studio to deploy the application for pneumonia classification application. 
 
-The folder "DSC148Project" includes all the codes for the app. 
+The folder "Demo/DSC148Project" includes all the codes for the app. 
 
 We follow the tutorial on [Image Classification App | Deploy TensorFlow model on Android | #2](https://www.youtube.com/watch?v=yV9nrRIC_R0) for
 inspiration and solve the problem of how we deploying the model in the app. 
